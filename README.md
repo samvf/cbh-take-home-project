@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/114415231/192298816-9979e49a-d3a6-419c-aee2-091e07e90005.png)
+
 This project contains two challenges - a "Ticket Breakdown" challenge and a "Refactoring" challenge. The two challenges are unrelated, but you should complete both in the same folder and share the link in Coderbyte. Any written answers should be included in markdown files within this folder.
 
 
